@@ -1,0 +1,182 @@
+C:\Users\TDM\Desktop\System Works\StAMS\StAMS\bin\Debug\StAMS.exe
+C:\Users\TDM\Desktop\System Works\StAMS\StAMS\bin\Debug\StAMS.pdb
+C:\Users\TDM\Desktop\System Works\StAMS\StAMS\bin\Debug\StAMS.xml
+C:\Users\TDM\Desktop\System Works\StAMS\StAMS\obj\x86\Debug\StAMS.Dashboard.resources
+C:\Users\TDM\Desktop\System Works\StAMS\StAMS\obj\x86\Debug\StAMS.Resources.resources
+C:\Users\TDM\Desktop\System Works\StAMS\StAMS\obj\x86\Debug\StAMS.vbproj.GenerateResource.Cache
+C:\Users\TDM\Desktop\System Works\StAMS\StAMS\obj\x86\Debug\StAMS.exe
+C:\Users\TDM\Desktop\System Works\StAMS\StAMS\obj\x86\Debug\StAMS.xml
+C:\Users\TDM\Desktop\System Works\StAMS\StAMS\obj\x86\Debug\StAMS.pdb
+C:\Users\TDM\Desktop\System Works\StAMS\StAMS\obj\x86\Debug\StAMS.ManageStudent.resources
+C:\Users\TDM\Desktop\System Works\StAMS\StAMS\obj\x86\Debug\StAMS.AdvisoryClass.resources
+C:\Users\TDM\Desktop\System Works\StAMS\StAMS\obj\x86\Debug\StAMS.DTR.resources
+C:\Users\TDM\Desktop\System Works\StAMS\StAMS\obj\x86\Debug\StAMS.Report.resources
+C:\Users\TDM\Desktop\System Works\StAMS\StAMS\obj\x86\Debug\StAMS.Account.resources
+C:\Users\TDM\Desktop\System Works\StAMS\StAMS\obj\x86\Debug\StAMS.Academic.resources
+C:\Users\TDM\Desktop\System Works\StAMS\StAMS\obj\x86\Debug\StAMS.Attendance.resources
+C:\Users\TDM\Desktop\System Works\StAMS\StAMS\obj\x86\Debug\StAMS.Login.resources
+C:\Users\TDM\Downloads\StAMS\StAMS\obj\x86\Debug\StAMS.exe
+C:\Users\TDM\Downloads\StAMS\StAMS\obj\x86\Debug\StAMS.xml
+C:\Users\TDM\Downloads\StAMS\StAMS\obj\x86\Debug\StAMS.pdb
+C:\Users\TDM\Downloads\StAMS\StAMS\obj\x86\Debug\StAMS.Academic.resources
+C:\Users\TDM\Downloads\StAMS\StAMS\obj\x86\Debug\StAMS.Account.resources
+C:\Users\TDM\Downloads\StAMS\StAMS\obj\x86\Debug\StAMS.AdvisoryClass.resources
+C:\Users\TDM\Downloads\StAMS\StAMS\obj\x86\Debug\StAMS.Attendance.resources
+C:\Users\TDM\Downloads\StAMS\StAMS\obj\x86\Debug\StAMS.Dashboard.resources
+C:\Users\TDM\Downloads\StAMS\StAMS\obj\x86\Debug\StAMS.DTR.resources
+C:\Users\TDM\Downloads\StAMS\StAMS\obj\x86\Debug\StAMS.Login.resources
+C:\Users\TDM\Downloads\StAMS\StAMS\obj\x86\Debug\StAMS.ManageStudent.resources
+C:\Users\TDM\Downloads\StAMS\StAMS\obj\x86\Debug\StAMS.Resources.resources
+C:\Users\TDM\Downloads\StAMS\StAMS\obj\x86\Debug\StAMS.Report.resources
+C:\Users\TDM\Downloads\StAMS\StAMS\obj\x86\Debug\StAMS.vbproj.GenerateResource.Cache
+C:\Users\TDM\Downloads\StAMS\StAMS\bin\Debug\StAMS.exe
+C:\Users\TDM\Downloads\StAMS\StAMS\bin\Debug\StAMS.pdb
+C:\Users\TDM\Downloads\StAMS\StAMS\bin\Debug\StAMS.xml
+C:\Users\TDM\Downloads\StAMS\StAMS\bin\Debug\MySql.Data.dll
+D:\Palag na to\StAMS\StAMS\obj\x86\Debug\StAMS.exe
+D:\Palag na to\StAMS\StAMS\obj\x86\Debug\StAMS.xml
+D:\Palag na to\StAMS\StAMS\obj\x86\Debug\StAMS.pdb
+D:\Palag na to\StAMS\StAMS\bin\Debug\StAMS.exe
+D:\Palag na to\StAMS\StAMS\bin\Debug\StAMS.pdb
+D:\Palag na to\StAMS\StAMS\bin\Debug\StAMS.xml
+D:\Palag na to\StAMS\StAMS\obj\x86\Debug\StAMS.vbprojResolveAssemblyReference.cache
+D:\Palag na to\StAMS\StAMS\obj\x86\Debug\StAMS.Academic.resources
+D:\Palag na to\StAMS\StAMS\obj\x86\Debug\StAMS.Account.resources
+D:\Palag na to\StAMS\StAMS\obj\x86\Debug\StAMS.AdvisoryClass.resources
+D:\Palag na to\StAMS\StAMS\obj\x86\Debug\StAMS.Attendance.resources
+D:\Palag na to\StAMS\StAMS\obj\x86\Debug\StAMS.Dashboard.resources
+D:\Palag na to\StAMS\StAMS\obj\x86\Debug\StAMS.DTR.resources
+D:\Palag na to\StAMS\StAMS\obj\x86\Debug\StAMS.Login.resources
+D:\Palag na to\StAMS\StAMS\obj\x86\Debug\StAMS.ManageStudent.resources
+D:\Palag na to\StAMS\StAMS\obj\x86\Debug\StAMS.Resources.resources
+D:\Palag na to\StAMS\StAMS\obj\x86\Debug\StAMS.Report.resources
+D:\Palag na to\StAMS\StAMS\obj\x86\Debug\StAMS.vbproj.GenerateResource.Cache
+D:\Palag na to\StAMS\StAMS\bin\Debug\StAMS.exe.config
+D:\Palag na to\StAMS\StAMS\obj\x86\Debug\StAMS.FPassword.resources
+D:\Updated STAMS\StAMS\StAMS\bin\Debug\StAMS.exe.config
+D:\Updated STAMS\StAMS\StAMS\obj\x86\Debug\StAMS.exe
+D:\Updated STAMS\StAMS\StAMS\obj\x86\Debug\StAMS.xml
+D:\Updated STAMS\StAMS\StAMS\obj\x86\Debug\StAMS.pdb
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\bin\Debug\StAMS.exe.config
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\obj\x86\Debug\StAMS.exe
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\obj\x86\Debug\StAMS.xml
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\obj\x86\Debug\StAMS.pdb
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\bin\Debug\StAMS.exe
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\bin\Debug\StAMS.pdb
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\bin\Debug\StAMS.xml
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\bin\Debug\MySql.Data.dll
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\obj\x86\Debug\StAMS.Academic.resources
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\obj\x86\Debug\StAMS.Account.resources
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\obj\x86\Debug\StAMS.AdvisoryClass.resources
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\obj\x86\Debug\StAMS.Attendance.resources
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\obj\x86\Debug\StAMS.Dashboard.resources
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\obj\x86\Debug\StAMS.DTR.resources
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\obj\x86\Debug\StAMS.FPassword.resources
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\obj\x86\Debug\StAMS.Login.resources
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\obj\x86\Debug\StAMS.ManageStudent.resources
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\obj\x86\Debug\StAMS.Resources.resources
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\obj\x86\Debug\StAMS.Report.resources
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\obj\x86\Debug\StAMS.vbproj.GenerateResource.Cache
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\obj\x86\Debug\StAMS.Form1.resources
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\bin\Debug\Emgu.CV.dll
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\bin\Debug\Emgu.Util.dll
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\bin\Debug\Emgu.CV.xml
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\bin\Debug\Emgu.Util.xml
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\bin\Debug\Emgu.CV.UI.dll
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\bin\Debug\ZedGraph.dll
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\bin\Debug\Emgu.CV.UI.xml
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\obj\x86\Debug\StAMS.AttendanceVerify.resources
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\bin\Debug\ClosedXML.dll
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\bin\Debug\ClosedXML.pdb
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\bin\Debug\ClosedXML.xml
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\obj\x86\Debug\StAMS.BackupDatabase.resources
+C:\Users\TDM\Downloads\Updated STAMS-20250510T133044Z-001\Updated STAMS\Updated STAMS\StAMS\StAMS\obj\x86\Debug\StAMS.RecycleBin.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\StAMS\StAMS\bin\Debug\StAMS.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\StAMS\StAMS\bin\Debug\StAMS.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\StAMS\StAMS\bin\Debug\StAMS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\StAMS\StAMS\bin\Debug\StAMS.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\StAMS\StAMS\obj\x86\Debug\StAMS.Academic.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\StAMS\StAMS\obj\x86\Debug\StAMS.Account.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\StAMS\StAMS\obj\x86\Debug\StAMS.AdvisoryClass.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\StAMS\StAMS\obj\x86\Debug\StAMS.Attendance.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\StAMS\StAMS\obj\x86\Debug\StAMS.AttendanceVerify.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\StAMS\StAMS\obj\x86\Debug\StAMS.BackupDatabase.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\StAMS\StAMS\obj\x86\Debug\StAMS.Dashboard.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\StAMS\StAMS\obj\x86\Debug\StAMS.DTR.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\StAMS\StAMS\obj\x86\Debug\StAMS.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\StAMS\StAMS\obj\x86\Debug\StAMS.FPassword.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\StAMS\StAMS\obj\x86\Debug\StAMS.Login.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\StAMS\StAMS\obj\x86\Debug\StAMS.ManageStudent.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\StAMS\StAMS\obj\x86\Debug\StAMS.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\StAMS\StAMS\obj\x86\Debug\StAMS.RecycleBin.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\StAMS\StAMS\obj\x86\Debug\StAMS.Report.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\StAMS\StAMS\obj\x86\Debug\StAMS.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\StAMS\StAMS\obj\x86\Debug\StAMS.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\StAMS\StAMS\obj\x86\Debug\StAMS.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\StAMS\StAMS\obj\x86\Debug\StAMS.pdb
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\bin\Debug\StAMS.exe.config
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.exe
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.xml
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.pdb
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\bin\Debug\StAMS.exe
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\bin\Debug\StAMS.pdb
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\bin\Debug\StAMS.xml
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\bin\Debug\ClosedXML.dll
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\bin\Debug\Emgu.CV.dll
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\bin\Debug\Emgu.CV.UI.dll
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\bin\Debug\Emgu.Util.dll
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\bin\Debug\MySql.Data.dll
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\bin\Debug\ZedGraph.dll
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\bin\Debug\ClosedXML.pdb
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\bin\Debug\ClosedXML.xml
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\bin\Debug\Emgu.CV.xml
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\bin\Debug\Emgu.CV.UI.xml
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\bin\Debug\Emgu.Util.xml
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.Academic.resources
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.Account.resources
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.AdvisoryClass.resources
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.Attendance.resources
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.AttendanceVerify.resources
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.BackupDatabase.resources
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.Dashboard.resources
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.DTR.resources
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.Form1.resources
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.FPassword.resources
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.Login.resources
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.ManageStudent.resources
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.Resources.resources
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.RecycleBin.resources
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.Report.resources
+C:\Users\TDM\Downloads\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.vbproj.GenerateResource.Cache
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\bin\Debug\StAMS.exe.config
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.exe
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.xml
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.pdb
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\bin\Debug\StAMS.exe
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\bin\Debug\StAMS.pdb
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\bin\Debug\StAMS.xml
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\bin\Debug\ZedGraph.dll
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\bin\Debug\ClosedXML.pdb
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\bin\Debug\ClosedXML.xml
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\bin\Debug\Emgu.CV.xml
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\bin\Debug\Emgu.CV.UI.xml
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\bin\Debug\Emgu.Util.xml
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.Academic.resources
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.Account.resources
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.AdvisoryClass.resources
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.Attendance.resources
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.AttendanceVerify.resources
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.BackupDatabase.resources
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.Dashboard.resources
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.DTR.resources
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.Form1.resources
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.FPassword.resources
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.Login.resources
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.ManageStudent.resources
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.Resources.resources
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.RecycleBin.resources
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.Report.resources
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.vbproj.GenerateResource.Cache
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.vbproj.AssemblyReference.cache
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.vbproj.CoreCompileInputs.cache
+D:\STUDENT ATTENDANCE MONITORING SYSTEM v1\SATMS UPDATED-20250513T172106Z-1-001\SATMS UPDATED\StAMS\StAMS\StAMS\obj\x86\Debug\StAMS.vbproj.Up2Date
